@@ -1,0 +1,23 @@
+# Gradle & Android Studio build files
+.gradle/
+build/
+app/build/
+*.iml
+.idea/
+local.properties
+
+# C++ Build & Binaries
+*.o
+*.obj
+bin/*.exe
+bin/*.dll
+bin/*.jar
+
+# Windows OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# File nén Release
+AndroidMirror_Portable.zip
+*.zip
